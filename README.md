@@ -4,7 +4,7 @@
 
 
 - 👀 I’m interested in AI, Machine Learning, BI (why not?), Math, Statistics, Python, C++... videogames, movies, sci-fi and girls.
-- 🌱 I’m currently learning AI, Machine Learning, BI (why not?), Math, Statistics, Python, C++
+- 🌱 I’m currently learning AI, Machine Learning, BI, Math, Statistics, Python, C++
 - 💞️ I’m looking to collaborate on videogames, movies, sci-fi and girls.
 - 📫 How to reach me zherekan@gmail.com
 
