@@ -3,7 +3,7 @@
 
 
 
-- 👀 I’m interested in AI, Machine Learning, BI (why not?), Math, Statistics, Python, C++... videogames, movies, sci-fi and girls.
+- 👀 I’m interested in AI, Machine Learning, BI (why not?), Math, Statistics, Python, C++... videogames, movies, sci-fi and all sorts of interesiting projects!.
 - 🌱 I’m currently learning AI, Machine Learning, BI, Math, Statistics, Python, C++
 - 💞️ I’m looking to collaborate on videogames, movies, sci-fi and all sorts of interesting projects!
 - 📫 How to reach me franc.camach@gmail.com
