@@ -5,8 +5,8 @@
 
 - 👀 I’m interested in AI, Machine Learning, BI (why not?), Math, Statistics, Python, C++... videogames, movies, sci-fi and girls.
 - 🌱 I’m currently learning AI, Machine Learning, BI, Math, Statistics, Python, C++
-- 💞️ I’m looking to collaborate on videogames, movies, sci-fi and girls.
-- 📫 How to reach me zherekan@gmail.com
+- 💞️ I’m looking to collaborate on videogames, movies, sci-fi and all sorts of interesting projects!
+- 📫 How to reach me franc.camach@gmail.com
 
 <!---
 frank-camacho/frank-camacho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
